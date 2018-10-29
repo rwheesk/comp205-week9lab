@@ -1,0 +1,13 @@
+.heading1 { 
+    color: green; font-style: italic;
+}
+p {
+    color:blue;
+}
+p.large-text{ 
+    font-size: 30px;
+ }
+
+
+
+
